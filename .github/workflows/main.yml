@@ -9,6 +9,6 @@
      test_1:
        name: print hw
        runs-on: ubuntu-latest
-       uses: echo "Hello world"
+       run: echo "Hello world"
         
         
